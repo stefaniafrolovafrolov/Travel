@@ -1,0 +1,107 @@
+body{
+    
+    border:solid 1px white;
+    border-width: 30px ;
+   
+     
+    
+    background-color:#2e3234 ;
+ 
+ 
+    border-radius: 50px;
+    margin: 100px  100px 100px 100px ;
+  
+    }
+
+  
+
+
+    h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+    color: white;
+     }
+
+    .rus {
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    font-family: monospace;
+    font-weight:normal;
+    }
+    
+    .what {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 38px;
+    color: white;
+
+    }
+   
+
+    .blocktext {
+    color: white;
+    font-size: 12px;
+    font-family: monospace;
+    font-weight:normal;
+    margin-left: auto;
+    margin-right: auto;
+    width: 34em
+        
+    }
+
+.city {
+    color: white;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 66px;
+    }
+
+
+.text2 {
+    color: white;
+  
+    font-size: 12px;
+    font-family: monospace;
+    font-weight:normal;
+    padding-bottom: 40px;
+}
+
+.img {
+   padding-left: 28px;
+   padding-top: 60px;
+}
+
+.kar {
+    padding-left: 45px;
+
+    float: left; /* Обтекание картинки по правому краю */
+    padding-left: 45px; /* Отступ слева */
+    padding-bottom: 40px; /* Отступ снизу */
+    padding-top: 0px;
+   }
+
+.clock {
+    color: white;
+    text-align: left;
+    font-size: 11px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+    .info {
+    color: white;
+    font-size:12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-indent: 1.3em; /* Отступ первой строки */
+    text-align: justify; /* Выравнивание по ширине */
+    word-spacing: 10px;
+    }
+
+    .name {
+    color: white;
+    font-size:12px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: right;
+    padding-bottom: 0px;
+    }
